@@ -353,6 +353,7 @@ def initTableBounds():
     #                    |
     #    (0)x---------(1)x--------(3)x
     # need to do manually
+
     if addLines:
         pointsDefined = True
         for point in tableBounds:
